@@ -1,5 +1,6 @@
 void foo(){
-console.write.line();
+console.writeline();
+	write();
 }
 
 
